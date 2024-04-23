@@ -1,3 +1,5 @@
+I think overall this was a good way to get some hands on experience working with SAE's and applying some MI concepts to a problem.
+
 #### MATS 6.0 Applicaton for Neel Nanda's Stream
 
 [MATS 6.0 Application](https://docs.google.com/document/d/1GDFtq6PHGLlgkbCw1B7jqxwJdmK3iEPHvt_NhB_TvtQ/edit?usp=sharing) google doc summarizing my findings. I worked on finding interesting SAE features inside a 1L transformer model and reverse engineering them.
